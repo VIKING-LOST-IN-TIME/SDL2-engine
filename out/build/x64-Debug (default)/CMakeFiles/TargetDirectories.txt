@@ -1,0 +1,5 @@
+C:/Users/Jeroen/source/repos/SDL2-engine/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/Jeroen/source/repos/SDL2-engine/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+C:/Users/Jeroen/source/repos/SDL2-engine/out/build/x64-Debug (default)/SDL2-engine/CMakeFiles/SDL2-engine.dir
+C:/Users/Jeroen/source/repos/SDL2-engine/out/build/x64-Debug (default)/SDL2-engine/CMakeFiles/edit_cache.dir
+C:/Users/Jeroen/source/repos/SDL2-engine/out/build/x64-Debug (default)/SDL2-engine/CMakeFiles/rebuild_cache.dir
