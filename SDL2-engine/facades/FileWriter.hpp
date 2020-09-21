@@ -1,14 +1,12 @@
 #pragma once
+#include "../interfaces/IFileSaver.hpp";
 
-class FileWriter {
+
+class FileWriter : public IFileSaver {
 public:
 	FileWriter();
 	
 	~FileWriter();
-	
-	bool openFile(); 
-	
-	bool closeFile();
 
 private:
 

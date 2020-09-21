@@ -1,11 +1,12 @@
+#pragma once
 
 class IRenderer {
 public:
-	void render() {};
+	void render();
 
-	void update() {};
+	void update();
 
-	void clear() {};
+	void clear();
 
 private:
 
